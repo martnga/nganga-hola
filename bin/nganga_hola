@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'nganga_hola'
+puts Hola.hi(ARGV[0])

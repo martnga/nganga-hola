@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'nganga_hola'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
+  s.executables << 'nganga_hola'
   s.date        = '2015-08-15'
   s.summary     = "Hola!"
   s.description = "A simple hello world gem"
